@@ -1,0 +1,125 @@
+
+#ul-one{
+    list-style: none;
+    margin: 0;
+    padding: o;
+    display: inline-block;
+    text-align: left;
+   
+    
+  
+}
+
+#div-one{
+    text-align: center;
+    margin: auto;
+    background-color: #625D5D;
+}
+.li-one{
+    float: left;
+    padding: 30px;
+    background-color: #625D5D;
+    color: #ffffff;
+    font-size: 40px;
+    margin-right: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+.li-one:hover{
+    background-color: 	#36454F;
+}
+.a-one:link{
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+.a-one:visited{
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.a-one:active{
+    color: yellow;
+}
+#head-one{
+    text-align: center;
+    font-family: "Lemon", serif;
+  font-weight: 48px;
+  font-style: normal;
+  color: #33FFFF;
+}
+#head-one-p{
+    font-size: 100px;
+    color: #B6FF59;
+}
+#para-one{
+    text-align: center;
+    color: #780000;
+    font-size: 38px;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+#para-two{
+    text-align: center;
+    font-size: 38px;
+    color: #008080;
+    font-weight: bold;
+
+}
+#head-two{
+    text-align: center;
+  font-size: 38px;
+  font-family: "Marck Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #D2691E;
+}
+#head-two-p{
+    font-size: 100px;
+    font-weight: bold;
+    color: #FFFF00;
+}
+#head-three{
+font-size: 38px;
+text-align: center;
+font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #FF0000;
+}
+#head-three-p{
+    font-size: 100px;
+    font-weight: bold;
+    color: #00FF00;
+}
+#head-four{
+    font-size: 38px;
+    text-align: center;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #FF00FF;
+}
+#head-four-p{
+    font-size: 100px;
+    font-weight: bold;
+    color: #4400FF;
+}
+#head-five{
+    font-size: 38px;
+    text-align: center;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #00FF2A;
+}
+#head-five-p{
+    font-size: 100px;
+    font-weight: bold;
+    color: #00F7FF;
+}
